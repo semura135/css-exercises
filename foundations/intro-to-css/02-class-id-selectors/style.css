@@ -1,0 +1,18 @@
+.class {
+background-color: rgb(255, 192, 192);
+font-size: 18px;
+font-weight: 300;
+font-family: Verdana;
+}
+.cooler {
+font-size: 21px;
+}
+#id-one {
+    font-size: 40px;
+    color: rgb(55, 0, 255);
+    font-family: serif;
+}
+#another-id {
+    background-color: rgb(173, 247, 125);
+    font-size: 35px;
+}
